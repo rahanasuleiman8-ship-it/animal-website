@@ -2,9 +2,12 @@ body{
     background-color: rgb(54, 123, 123);
     font-size:20px;
     font-style: Arial , Helvetica, Sans-serif;
-    
+
 }
-    
+h1{
+    text-align:center;
+} 
+
 
 
 
